@@ -1,0 +1,30 @@
+
+Library: CMake
+Version: 3.14.5(W), 3.14.5(L)
+License: BSD
+Website: https://cmake.org
+
+Library: BasicX
+Version: 1.0.2(W), 1.0.2(L)
+License: BSD & LGPL
+Website: https://github.com/xurendong/basicx
+
+Library: Boost
+Version: 1.70.0(W), 1.70.0(L)
+License: Boost
+Website: http://www.boost.org
+
+Library: gperftools
+Version: 2.6.3
+License: BSD
+Website: https://github.com/gperftools/gperftools
+
+Library: CPPFormatLibrary
+Version: 0.1.0
+License: None
+Website: https://github.com/sczybt/CPPFormatLibrary
+
+Library: JsonCpp
+Version: 1.8.4
+License: MIT
+Website: https://github.com/open-source-parsers/jsoncpp
